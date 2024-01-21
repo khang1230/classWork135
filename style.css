@@ -1,0 +1,21 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: cornflowerblue;
+}
+
+#status, #numberOfOjects
+{
+font-size: 18px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    margin-top: 50px;
+}
